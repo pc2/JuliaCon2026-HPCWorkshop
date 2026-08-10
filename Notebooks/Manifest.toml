@@ -1106,7 +1106,7 @@ version = "1.11.0"
 
 [[deps.ProfileSVG]]
 deps = ["Colors", "FlameGraphs", "Profile", "UUIDs"]
-path = "/pc2/users/a/awiens/.julia/dev/ProfileSVG"
+url = "https://git.uni-paderborn.de/awiens/ProfileSVG.jl.git"
 uuid = "132c30aa-f267-4189-9183-c8a63c7e05e6"
 version = "0.2.3"
 
