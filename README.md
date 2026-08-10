@@ -14,7 +14,7 @@ Sections:
 
 2. Performance Engineering Workflow in Julia
 
-3. Case Study: Molecular Dynamics Simulation of Liquid Argon (ArgonMD)
+3. Case Study: [Molecular Dynamics Simulation of Liquid Argon (ArgonMD)](https://github.com/pc2/ArgonMD.jl)
 
 <div style="float: left">
   <a><img src="7JKGJU_a2SPxzn.png" width=300px></a>
