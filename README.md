@@ -4,7 +4,7 @@ Workshop at [JuliaCon 2026](https://juliacon.org/2026/) about Performace Enginee
 
 **Location**: [JuliaCon 2026 at Johannes Gutenberg University](https://juliacon.org/2026/#venue)
 
-**Date**: 2028-08-10 10:00 - 13:00
+**Date**: 2026-08-10 10:00 - 13:00
 
 **Workshop event page**: [https://pretalx.com/juliacon-2026/talk/7JKGJU/](https://pretalx.com/juliacon-2026/talk/7JKGJU/)
 
